@@ -1,4 +1,7 @@
 # CS663 Lab 04 - Hierarchical
+Name: Na LU
+
+USF email address: nlu5@usfca.edu
 
 Datasets for this lab are:
 
